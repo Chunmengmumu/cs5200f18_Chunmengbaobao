@@ -8,6 +8,7 @@
 1. hw_jdbc_first_last.java : main class.
 2. ProcedureDao.java : stored procedure.
 3. Connection_A3 : connection part.
+4. daos and Impl files are in daos package and model files are in models package.
 
 #### For sql_files folder:
 1. createTable_procedure.sql : create five tables needed in hw.
